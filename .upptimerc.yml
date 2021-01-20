@@ -19,7 +19,7 @@ status-website:
   name: status.optt.me
 
 i18n:
-  footer: <a href="https://labs.ie" target="_blank">labs.ie</a>
+  footer: <a href="https://optt.me" target="_blank">optt.me</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
