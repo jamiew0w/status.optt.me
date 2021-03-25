@@ -9,6 +9,17 @@ sites:
 
 assignees:
   - jamiew0w
+commitMessages:
+  commitAuthorName: "jamiew0w"
+  commitAuthorEmail: "jamie@welp.me"
+workflowSchedule:
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+  uptime: "* * * * *"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
