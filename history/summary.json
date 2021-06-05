@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/optt.me",
     "slug": "optt-me",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 536,
-    "timeWeek": 557,
-    "timeMonth": 614,
+    "timeDay": 537,
+    "timeWeek": 561,
+    "timeMonth": 615,
     "timeYear": 506,
-    "dailyMinutesDown": {
-      "2021-05-01": 53
-    }
+    "dailyMinutesDown": {}
   }
 ]
